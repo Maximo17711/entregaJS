@@ -1,6 +1,29 @@
+//simulacion de un prestamo en cuotas, que se podria utilizar para un producto 
 
-let  NmasIVA= parseInt(prompt("Ingrese un numero y le sumaremos el IVA"));
-{
-    let resultado = NmasIVA * 1.21 ;
-    alert(NParaMultiplicar+" = "+ resultado);
+function IngresoValor(){
+    let valor = parseInt(prompt("ingresar valor"));
+    alert("La cantidad es = " + valor)
+    return valor
 }
+
+function NCuotas(){
+    let DivisionCuotas = parseInt(prompt("puede hacerlo hasta 12 cuotas, en cuantas las va a hacer?"));
+    alert("El prestamo sera en " + DivisionCuotas + " cuotas")
+    return DivisionCuotas
+}
+
+let valor = IngresoValor()
+let DivisionCuotas = NCuotas()
+
+function dividir(dato1, dato2){
+    let resultado = dato1 / dato2;
+    return resultado
+}
+
+//todos los resultados mostrados en consola
+console.log("El valor es:" + valor)
+console.log("Las cuotas son:" + DivisionCuotas)
+
+let division = dividir(valor, DivisionCuotas)
+
+console.log("Seran " + DivisionCuotas + " cuotas de $" + division)
