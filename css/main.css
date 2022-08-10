@@ -1,0 +1,24 @@
+* {
+    margin: 20%;
+    padding: 0%;
+}
+
+.cuerpo-principal {
+    background-color: rgb(202, 186, 166);
+}
+
+
+div h1 {
+justify-content: center;
+text-align: center;
+align-items: center;
+
+
+}
+.crt-casas {
+margin-left: 40px;
+}
+
+.cartas {
+    margin: 50px;
+}

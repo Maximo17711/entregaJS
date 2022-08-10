@@ -81,3 +81,10 @@ console.log("Las cuotas son:" + DivisionCuotas)
 let division = dividir(valor, DivisionCuotas)
 
 console.log("Seran " + DivisionCuotas + " cuotas de $" + division + " dolares por mes")
+
+let cartas = document.getElementsByClassName("cartas")
+
+console.log (cartas[0].innerHTML);
+console.log (cartas[1].innerHTML);
+console.log (cartas[2].innerHTML);
+console.log (cartas[3].innerHTML);
