@@ -85,7 +85,7 @@ function takeUserData() {
 function updateOrder(clean) {
     if (clean === "clean") {orderList.innerHTML = ""};
     order = [];
-    form.innerHTML = '<input type="hidden" name="_next" value="https://github.com/Maximo17711/entregaJS.git"><input type="hidden" name="_captcha" value="false">'; 
+    form.innerHTML = '<input type="hidden" name="_next" value="https://maximo17711.github.io/entregaJS/#"><input type="hidden" name="_captcha" value="false">'; 
         let listItems = document.querySelectorAll(".list-group-item");
     let prices = [];
     listItems.forEach((el, index) => {
