@@ -2,141 +2,141 @@
     {
         "type": "Entradas",
         "description": "Rabas",
-        "price": 1590,
+        "price": 1199,
         "available": false,
         "source": "images/rabas.png"
     },
     {
         "type": "Entradas",
         "description": "Empanadas de Carne",
-        "price": 1600,
+        "price": 170,
         "available": true,
         "source": "images/empanadas.jpg"
     },
     {
         "type": "Entradas",
         "description": "Papas Fritas con chedar,Bacon y Verdeo",
-        "price": 990,
+        "price": 800,
         "available": true,
-        "source": "images/papasChedar.jpg"
+        "source": "images/Papas ftitas con Chedar y bacon.jpg"
     },
     {
         "type": "Entradas",
         "description": "Papas Fritas",
-        "price": 1200,
+        "price": 650,
         "available": true,
         "source": "images/papas fritas.jpg"
     },
     {
         "type": "Entradas",
         "description": "Bastoncitos de Queso",
-        "price": 1650,
+        "price": 125,
         "available": true,
         "source": "images/bastones de queso.jpg"
     },
     {
         "type": "Principales",
-        "description": "Ojo de bife con papas asadas",
+        "description": "Locro",
         "price": 1750,
         "available": true,
-        "source": "images/ojo_de_bife.jpg"
+        "source": "images/locro.jpg"
     },
     {
         "type": "Principales",
-        "description": "Pollo a la mostaza con vegetales asados",
-        "price": 1350,
+        "description": "Pizza margarita",
+        "price": 1799,
         "available": true,
-        "source": "images/pollo.jpg"
+        "source": "images/pizza-margarita.jpg"
     },
     {
         "type": "Principales",
-        "description": "Trucha con arroz cremoso",
-        "price": 1650,
+        "description": "ñoquis",
+        "price":1300,
         "available": false,
-        "source": "images/trucha.jpg"
+        "source": "images/ñoquis.jpg"
     },
     {
         "type": "Principales",
-        "description": "Entraña con puré rústico",
-        "price": 1400,
+        "description": "Milanesa a la napolitana",
+        "price":1800,
         "available": true,
-        "source": "images/entrania.jpg"
+        "source": "images/milanesa.jpg"
     },
     {
         "type": "Principales",
-        "description": "Ravioles de salmón con salsa de tomates",
-        "price": 1650,
+        "description": "Tira de asado",
+        "price":2100,
         "available": true,
-        "source": "images/ravioles.jpg"
+        "source": "images/tira de asado.jpg"
     },
     {
         "type": "Postres",
-        "description": "Volcán de chocolate",
-        "price": 790,
+        "description": "Helado almendrado",
+        "price": 779,
         "available": true,
-        "source": "images/volcan.jpg"
+        "source": "images/almendrado.jpg"
     },
     {
         "type": "Postres",
-        "description": "Creme brulee",
-        "price": 500,
+        "description": "Copa de helado",
+        "price": 599,
         "available": true,
-        "source": "images/creme_brulee.jpg"
-    },
-    {
-        "type": "Postres",
-        "description": "Flan casero",
-        "price": 520,
-        "available": true,
-        "source": "images/flan.jpg"
+        "source": "images/copa de helado.jpg"
     },
     {
         "type": "Postres",
         "description": "Ensalada de frutas",
-        "price": 590,
+        "price":650 ,
         "available": true,
-        "source": "images/ensalada_frutas.jpg"
+        "source": "images/Ensalada-de-frutas.jpg"
     },
     {
         "type": "Postres",
-        "description": "Cheesecake con frutos del bosque",
-        "price": 560,
+        "description": "Frutilla con crema",
+        "price":639 ,
+        "available": true,
+        "source": "images/frutilla con crema.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Cafe americano",
+        "price":299 ,
         "available": false,
-        "source": "images/cheseecake.jpg"
+        "source": "images/cafe.jpg"
     },
     {
         "type": "Bebidas",
-        "description": "Agua sin gas",
-        "price": 210,
+        "description": "Vino",
+        "price":600 ,
         "available": true,
-        "source": "images/agua.jpg"
+        "source": "images/vino.jpg"
     },
     {
         "type": "Bebidas",
-        "description": "Jugo exprimido de naranja",
-        "price": 400,
+        "description": "Jugo Levite 2 litros",
+        "price":500 ,
         "available": true,
-        "source": "images/exprimido.jpg"
+        "source": "images/jugo.jpg"
     },
     {
         "type": "Bebidas",
-        "description": "Cerveza Cape Horn",
-        "price": 560,
+        "description": "Cerveza",
+        "price":599 ,
         "available": false,
         "source": "images/cerveza.jpg"
     },
     {
         "type": "Bebidas",
-        "description": "Vino Tinto Amalaya Corte Único",
-        "price": 1100,
+        "description": "Coca cola 573ml",
+        "price":299 ,
         "available": true,
-        "source": "images/vino_tinto.jpg"
+        "source": "images/coca.jpg"
     },
     {
         "type": "Bebidas",
-        "description": "Vino Blanco Norton Cosecha Tardía",
-        "price": 900,
+        "description": "agua 600ml",
+        "price": 230,
         "available": true,
-        "source": "images/vino_blanco.jpg"
+        "source": "images/agua.jpg"
     }
 ]
